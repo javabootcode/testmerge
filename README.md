@@ -1,2 +1,2 @@
 # testmerge
-测试idea在git的使用
+测试git在idea上的使用
